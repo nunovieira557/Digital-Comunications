@@ -61,7 +61,7 @@ class wifi_rx(gr.top_block, Qt.QWidget):
         ##################################################
         # Variables
         ##################################################
-        self.window_size = window_size = 1200
+        self.window_size = window_size = 48
         self.sync_length = sync_length = 320
         self.samp_rate = samp_rate = 20000000
 
